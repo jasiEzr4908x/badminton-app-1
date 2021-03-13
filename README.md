@@ -1,1 +1,1 @@
-# badminton-app-1
+# badminton-app
